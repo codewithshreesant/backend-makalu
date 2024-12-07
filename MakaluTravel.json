@@ -1,0 +1,33 @@
+[
+    {
+        "placeName": "Gosaikunda",
+        "description":"10 days start from $0",
+        "price": "",
+        "coverImage": "https://th.bing.com/th/id/OIP.DudFBShX0XS4cNRgYzm1yAHaDm?w=315&h=170&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "placeName":"Kailash-Mansarovar-Tour",
+        "description":"4 days start from $0",
+        "price": "",
+        "coverImage":"https://th.bing.com/th/id/OIP.OJauOjofb4RSZ1_G22Jq0AHaFL?w=224&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "placeName":"Kathmandu-Chitwan",
+        "description":"6 days start from $0",
+        "price":"",
+        "coverImage":"https://th.bing.com/th/id/OIP.PZmAzbQ6ZHCT0-lxLV6MggHaDN?w=305&h=151&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "placeName":"Kathmandu-Chitwan-Pokhara",
+        "description":"8 days start from $0",
+        "price":"",
+        "coverImage":"https://th.bing.com/th/id/OIP.UEksKPsRCz1B8JeqSTDuNwHaDD?w=350&h=144&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "placeName":"ktm-Pokhara-Jomsom",
+        "description":"450 Days start from $0",
+        "price":"",
+        "coverImage":"https://th.bing.com/th/id/OIP.mpM7rLL_LSYG8Dl8TP2X3gHaE8?w=230&h=180&c=7&r=0&o=5&pid=1.7"
+    }
+]
+
